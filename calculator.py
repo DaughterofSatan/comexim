@@ -1,5 +1,5 @@
 # Please replace the values below with your UK bra size and the store you're buying from
-band_size = 34 # whole even number between 24-50
+band_size = 38 # whole even number between 24-50
 cup_size = 'GG' # letter(s) in quotation marks between A-K (KK+ contact Comexim)
 store_name = 'Breakout Bras' # 'Breakout Bras' or 'Comexim' 
 
